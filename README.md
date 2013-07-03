@@ -28,6 +28,11 @@ Several conditions are checked:
 
 In the cases 2 and 3 master with more used_memory is elected. It's our production case but can be easily changed.  
 
+Usage
+=============
+
+./redis-replica.py < config >
+
 Third-party
 =============
 
